@@ -1,0 +1,13 @@
+http://cymplecy.wordpress.com/scratchgpio/scratchgpio-1st-project/
+
+http://www.instructables.com/id/Control-Stuff-with-your-Raspberry-Pi-GPIO     
+
+http://hertaville.com/2012/11/18/introduction-to-accessing-the-raspberry-pis-gp$
+
+
+
+resistor color code
+
+http://www.digikey.com/us/en/mkt/calculators/5-band-resistors.html
+
+
